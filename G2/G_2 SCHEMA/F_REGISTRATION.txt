@@ -1,0 +1,7 @@
+insert into F_REGISTRATION values('20','Niraj soni','31-08-1984','Male','niraj336@yahoo.com','O+','9784567878','Narendra soni','Manjusha soni','768546755','Bhilai nehru nagar','ME','IT','2010','Associate professor','8 years','obc','07-10-2010','','pending','ME');
+insert into F_REGISTRATION values('20','Kunal choudary','31-08-1984','Male','kunal336@yahoo.com','O+','9787896578','Ashish choudary','Manju choudary','868546756','Bhilai nehru nagar','ME','IT','2010','Associate professor','8 years','obc','08-14-2010','','pending','ME');
+insert into F_REGISTRATION values('20','Govind meshram','31-08-1984','Male','govind336@yahoo.com','o+','9783456578','Anil meshram','Manju meshram','968546720','Bhilai junwani','BE','IT','2013','Assistant professor','2 years','st','09-11-2013','','pending','ME');
+insert into F_REGISTRATION values('20','Rishab kurre','31-08-1984','Male','mukesh336@yahoo.com','o+','9784554578','Ashok kurre','Anita kurre','768546456','Durg','BE','IT','2015','Assistant professor','4 years','sc','03-09-2015','','pending','ME');
+insert into F_REGISTRATION values('20','Satish tiwari','31-08-1984','Male','satish336@yahoo.com','o+','9782345678','Satyam tiwari','jyoti tiwari','768534567','Bhilai Radhika nagar','ME','MECHNICAL','2014','Associate professor','10 years','general','04-08-2014','','pending','MES');
+
+

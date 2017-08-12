@@ -1,0 +1,12 @@
+insert into TIMETABLE values('BE','IT','5','MONDAY','TOC','1','Bc patel');
+insert into TIMETABLE values('BE','Civil','3','TUESDAY','BCE','2','Anshuman singh');
+insert into TIMETABLE values('BE','IT','5','WEDNASDAY','DBMS','3','Himanshu kujur');
+insert into TIMETABLE values('BE','CSE','5','THURSDAY','DS','7','Nilesh sahu');
+insert into TIMETABLE values('BE','EEE','5','FRIDAY','IC','4','Aditi gupta');
+insert into TIMETABLE values('BE','Mechnical','5','SATURDAY','THERMO','5','Yash aggrawal');
+insert into TIMETABLE values('BE','IT','5','MONDAY','OS','2','Ashish Sahu');
+insert into TIMETABLE values('BE','IT','5','MONDAY','JAVA','3','KV RAVI');
+insert into TIMETABLE values('BE','IT','5','MONDAY','DBMS','4','Anil Mandle');
+insert into TIMETABLE values('BE','IT','5','MONDAY','PCS','5','JBAGGA');
+insert into TIMETABLE values('BE','IT','5','MONDAY','PCS','6','JBAGGA');
+insert into TIMETABLE values('BE','IT','5','MONDAY','OS','7','Ashish Sahu');

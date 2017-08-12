@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.8" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <Events>
+    <EventHandler event="windowOpened" listener="java.awt.event.WindowListener" parameters="java.awt.event.WindowEvent" handler="formWindowOpened"/>
+  </Events>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="ADDRESS2" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="PARENT_MOBNO2" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="FATHER_NAME2" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="EMAIL_ID2" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="MOB_NO2" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="BLOOD_GROUP2" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="GENDER2" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="DOB2" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="Name2" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="-2" pref="83" max="-2" attributes="0"/>
+                      <Component id="S_EDIT1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace pref="109" max="32767" attributes="0"/>
+                      <Component id="S_OK1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="134" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="jScrollPane1" min="-2" pref="158" max="-2" attributes="0"/>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                  <Component id="S_PARENT_MOBNO" alignment="0" pref="115" max="32767" attributes="0"/>
+                                  <Component id="S_FATHER_NAME1" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="S_EMAILID1" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="S_MOBNO1" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="S_BLOOD_GROUP1" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="S_GENDER1" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="S_DOB1" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="S_NAME1" alignment="1" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="STREAM2" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="BRANCH2" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="SEMESTER2" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="YEAR2" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="ROLLNO2" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="PASSWORD2" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="CATEGORY2" alignment="1" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="S_STREAM1" max="32767" attributes="0"/>
+                                  <Component id="S_BRANCH1" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="S_SEM1" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="S_YEAR1" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="S_ROLLNO1" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="S_CATEGORY1" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="S_PASSWORD1" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Name2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="STREAM2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="S_NAME1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="S_STREAM1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="DOB2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="BRANCH2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="S_DOB1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="S_BRANCH1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="GENDER2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="SEMESTER2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="S_GENDER1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="S_SEM1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="BLOOD_GROUP2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="YEAR2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="S_BLOOD_GROUP1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="S_YEAR1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="MOB_NO2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ROLLNO2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="S_MOBNO1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="S_ROLLNO1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="EMAIL_ID2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="PASSWORD2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="S_EMAILID1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="S_PASSWORD1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="FATHER_NAME2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="CATEGORY2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="S_FATHER_NAME1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="S_CATEGORY1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="PARENT_MOBNO2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="S_PARENT_MOBNO" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="ADDRESS2" min="-2" max="-2" attributes="0"/>
+                  <Component id="jScrollPane1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="37" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="S_EDIT1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="S_OK1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="FATHER_NAME2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Father&apos;s Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="PARENT_MOBNO2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Parent&apos;s Mob-No"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ADDRESS2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Address"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="STREAM2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Stream"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="SEMESTER2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Semester"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="GENDER2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Gender"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="S_EDIT1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="EDIT"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="S_EDIT1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="BLOOD_GROUP2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Blood Group"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="S_OK1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="OK"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="S_OK1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="BRANCH2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Branch"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="PASSWORD2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Password"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ROLLNO2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Roll No"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Name2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="YEAR2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Year"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="MOB_NO2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Mobile Number "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="DOB2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Date of Birth"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="EMAIL_ID2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Email Id"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="CATEGORY2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Category"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="S_NAME1">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="S_NAME1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="S_DOB1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="S_GENDER1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="S_BLOOD_GROUP1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="S_MOBNO1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="S_EMAILID1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="S_FATHER_NAME1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="S_PARENT_MOBNO">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="S_PARENT_MOBNOActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="S_ADDRESS1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JTextField" name="S_STREAM1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="S_BRANCH1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="S_SEM1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="S_YEAR1">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="S_YEAR1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="S_ROLLNO1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="S_CATEGORY1">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="S_CATEGORY1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JPasswordField" name="S_PASSWORD1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jPasswordField1"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

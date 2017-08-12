@@ -1,0 +1,11 @@
+insert into notification values('Admin','not seen','pending','registration','05/08/2015');
+insert into notification values('Admin','not seen','pending','registration','05/08/2015');
+insert into notification values('Admin','not seen','pending','registration','05/08/2015');
+insert into notification values('Admin','not seen','pending','test schedule','04/08/2015');
+insert into notification values('Clerk','not seen','pending','registration','04/08/2015');
+insert into notification values('Clerk','not seen','pending','registration','03/08/2015');
+insert into notification values('Student','not seen','pending','Assignment completed','03/08/2015');
+insert into notification values('Student','not seen','pending','Assignment completed','04/08/2105');
+insert into notification values('Faculty','not seen','pending','Test schedule','05/08/2015');
+insert into notification values('Faculty','not seen','pending','assignment','05/08/2105');
+insert into notification values('Faculty','not seen','pending','assignment','08/08/2015');

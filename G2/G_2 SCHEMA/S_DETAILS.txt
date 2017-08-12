@@ -1,0 +1,30 @@
+insert into S_DETAILS values('01','BE','Amit soni','22-12-1995','IT','5','BE2015001','2015001','2015','obc','994567786','SL soni','7687645633','Male','tyuav34@gmail.com','B+','Nandini nagar',0,30000,'');
+insert into S_DETAILS values('02','BE','Shahid khan','22-12-1996','Mechnical','5','BE2015002','2015002','2015','general','99782186','Rashid khan','7687645633','Male','rocktav34@gmail.com','B+','Bhilai kailash nagar',0,30000,'');
+insert into S_DETAILS values('03','ME','Anand sahu','22-12-1993','CSE','5','BE2015003','2015003','2015','general','99734536','Mahendra sahu','7687645633','Male','edftv34@gmail.com','B+','Bhilai santi nagar',30000,0,'');
+insert into S_DETAILS values('04','ME','Amit choudary','22-12-1993','CIVIL','5','BE2015004','2015004','2015','obc','997568786','Pankaj choudary','7687645633','Male','senav34@gmail.com','A+','Bhilai chouhan twoun',20000,10000,'');
+insert into S_DETAILS values('05','BE','Rishab nahata','22-12-1996','IT','5','BE2015005','2015005','2015','obc','99760000','Ashok nahata','7687645633','Male','rishabav34@gmail.com','O+','Nandini Twounship',10000,20000,'');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

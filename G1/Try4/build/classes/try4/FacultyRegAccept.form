@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.8" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+      <Connection component="Button_DoneFcltyAcpt" name="componentCount" type="property"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jSeparator2" alignment="0" max="32767" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="Label_Name_FcltyRegAcpt" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Label_Test_RegNo_FcltyRegAcpt" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Label_Gender_FcltyRegAcpt" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Label_Degree_FcltyRegAcpt" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Label_Stream_FcltyRegAcpt" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Label_Branch_FcltyRegAcpt" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="Label_Branch_FcltyRegAcpt1" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="TextField_DesigFcltyAcpt" min="-2" pref="124" max="-2" attributes="0"/>
+                          <Component id="TextField_GendFcltyAcpt" alignment="0" min="-2" pref="124" max="-2" attributes="0"/>
+                          <Component id="TextField_RegNoFcltyAcpt" alignment="0" min="-2" pref="124" max="-2" attributes="0"/>
+                          <Component id="TextField_NameFcltyAcpt" alignment="0" min="-2" pref="124" max="-2" attributes="0"/>
+                          <Component id="TextField_DegrFcltyAcpt" alignment="0" min="-2" pref="124" max="-2" attributes="0"/>
+                          <Component id="TextField_DepartFcltyAcpt" alignment="0" min="-2" pref="124" max="-2" attributes="0"/>
+                          <Component id="TextField_StreamFcltyAcpt" alignment="0" min="-2" pref="124" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jSeparator1" alignment="0" max="32767" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel_RegSucc_FcltyRegAcpt" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="Label_FcltyID_FcltyRegAcpt" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="Label_Year_FcltyRegAcpt" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="101" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="TextField_YearFcltyAcpt" alignment="0" min="-2" pref="124" max="-2" attributes="0"/>
+                                          <Component id="TextField_IDFcltyAcpt" alignment="0" min="-2" pref="124" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="0" pref="224" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="212" max="-2" attributes="0"/>
+              <Component id="Button_DoneFcltyAcpt" min="-2" pref="96" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+              <Component id="jLabel_RegSucc_FcltyRegAcpt" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jSeparator1" min="-2" pref="10" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Label_Name_FcltyRegAcpt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TextField_NameFcltyAcpt" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Label_Test_RegNo_FcltyRegAcpt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TextField_RegNoFcltyAcpt" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Label_Gender_FcltyRegAcpt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TextField_GendFcltyAcpt" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Label_Degree_FcltyRegAcpt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TextField_DegrFcltyAcpt" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Label_Stream_FcltyRegAcpt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TextField_StreamFcltyAcpt" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Label_Branch_FcltyRegAcpt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TextField_DepartFcltyAcpt" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Label_Branch_FcltyRegAcpt1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TextField_DesigFcltyAcpt" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Label_FcltyID_FcltyRegAcpt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TextField_IDFcltyAcpt" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Label_Year_FcltyRegAcpt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TextField_YearFcltyAcpt" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+              <Component id="jSeparator2" min="-2" pref="10" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="Button_DoneFcltyAcpt" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="32" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="Label_Gender_FcltyRegAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Gender:"/>
+        <Property name="toolTipText" type="java.lang.String" value="Admission Accepted"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Label_Name_FcltyRegAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Name:"/>
+        <Property name="toolTipText" type="java.lang.String" value="Admission Accepted"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Label_Test_RegNo_FcltyRegAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Registration Number:"/>
+        <Property name="toolTipText" type="java.lang.String" value="Admission Accepted"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel_RegSucc_FcltyRegAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="20" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Registration Successful"/>
+        <Property name="toolTipText" type="java.lang.String" value="Admission Accepted"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextField_RegNoFcltyAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="12" style="0"/>
+        </Property>
+        <Property name="toolTipText" type="java.lang.String" value="Admission Accepted"/>
+        <Property name="enabled" type="boolean" value="false"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Label_Stream_FcltyRegAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Stream:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Label_Branch_FcltyRegAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Departmnet:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Label_Year_FcltyRegAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Year:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextField_StreamFcltyAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="12" style="0"/>
+        </Property>
+        <Property name="enabled" type="boolean" value="false"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextField_NameFcltyAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="12" style="0"/>
+        </Property>
+        <Property name="toolTipText" type="java.lang.String" value="Admission Accepted"/>
+        <Property name="enabled" type="boolean" value="false"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextField_GendFcltyAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="12" style="0"/>
+        </Property>
+        <Property name="toolTipText" type="java.lang.String" value="Admission Accepted"/>
+        <Property name="enabled" type="boolean" value="false"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JSeparator" name="jSeparator1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+        <Property name="toolTipText" type="java.lang.String" value="Admission Accepted"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextField_IDFcltyAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="12" style="0"/>
+        </Property>
+        <Property name="enabled" type="boolean" value="false"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Label_FcltyID_FcltyRegAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Faculty ID:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Button_DoneFcltyAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Done"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Button_DoneFcltyAcptActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextField_DepartFcltyAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="12" style="0"/>
+        </Property>
+        <Property name="enabled" type="boolean" value="false"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JSeparator" name="jSeparator2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+        <Property name="toolTipText" type="java.lang.String" value="Admission Accepted"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextField_YearFcltyAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="12" style="0"/>
+        </Property>
+        <Property name="enabled" type="boolean" value="false"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Label_Degree_FcltyRegAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Degree:"/>
+        <Property name="toolTipText" type="java.lang.String" value="Admission Accepted"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextField_DegrFcltyAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="12" style="0"/>
+        </Property>
+        <Property name="toolTipText" type="java.lang.String" value="Admission Accepted"/>
+        <Property name="enabled" type="boolean" value="false"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Label_Branch_FcltyRegAcpt1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Designation:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextField_DesigFcltyAcpt">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Constantia" size="12" style="0"/>
+        </Property>
+        <Property name="enabled" type="boolean" value="false"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+  </SubComponents>
+</Form>

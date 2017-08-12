@@ -1,0 +1,5 @@
+insert into F_DETAILS values('40','f000','Bc patel','06-07-1978','000','obc','IT','Associate professor','9080765789','Ajay patel','9878667844','Male','bcpatel67@gmail.com','B+','Bhilai Vaishali nagar',0,0,'F001','5');
+insert into F_DETAILS values('41','f001','Adil singh','08-08-1978','001','obc','CSE','Associate professor','9789765789','Ashok singh','9878667844','Male','adill67@gmail.com','B+','Bhilai nehru nagar west',0,0,'F002','3');
+insert into F_DETAILS values('42','f002','Aditi sahu','12-09-1978','002','General','Civil','Associate professor','98900765789','Anshuman patel','9878667844','Female','aditil67@gmail.com','B+','Raipur Vaishali nagar',0,0,'F003','5');
+insert into F_DETAILS values('43','f003','Ankita nayak','11-11-1978','003','General','IT','Associate professor','90808905789','Gajesh nayak','9878667844','Female','ankita67@gmail.com','B+','Raipur sundar nagar nagar',0,0,'F004','7');
+insert into F_DETAILS values('44','f004','Himanshu kujur','04-12-1978','004','obc','Mechnical','Assistant professor','9680765789','Anand kujur','9878667844','Male','himanshu67@gmail.com','B+','Raipur kali badi',0,0,'F005','3');

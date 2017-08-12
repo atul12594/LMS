@@ -1,0 +1,14 @@
+insert into SREGISTRATION values('01','Amit soni','22-12-1995','Male','amitavss@234gmail.com','B+','99678567','Sl soni','Anita soni','7897133350','Bhilai street no-09','BE','IT','2015','obc','76','86','1678','Approved','5','12-04-2015');
+insert into SREGISTRATION values('02','Atul aggrawal','22-11-1995','Male','atulss@234gmail.com','o+','98578567','Anish aggrawal','Anita aggrawal','7897134350','Supela Infront of yes bank','BE','IT','2015','obc','96','92','1008','Approved','5','12-04-2015');
+insert into SREGISTRATION values('03','Ayush bijoura','10-10-1995','Male','ayushss@234gmail.com','o+','99674567','Hemant bijoura','suman bijoura','7897135650','Bhilai Nehru Nagar H.no-45','BE','IT','2015','obc','76','74','1367','Approved','5','12-04-2015');
+insert into SREGISTRATION values('04','Ravee sahu','08-12-1994','Female','raveess@234gmail.com','o+','996787897','Ganesh sahu','Madhu sahu','7897678550','Bhilai junwani','BE','CSE','2015','general','79','89','2222','Pending','5','12-04-2015');
+insert into SREGISTRATION values('05','Aditi tiwari','22-12-1996','Female','aditiss@234gmail.com','B+','79678567','Ashok tiwari','Anita tiwari','7897133450','Durg gandhi nagar','BE','Mechnical','2016','general','76','96','608','Approved','3','12-04-2015');
+insert into SREGISTRATION values('06','Sarvan kurre','02-08-1994','Male','sarvan@234gmail.com','A+','99678566','Deven kurre','Jyoti kurre','8602133350','Nandini township','BE','EEE','2014','st','76','54','1645','Approved','7','12-04-2014');
+insert into SREGISTRATION values('07','Govind wankade','09-08-1994','Male','govind@234gmail.com','A+','99678568','Satyam wankade','Neha wankade','7897133450','Nandini township','BE','CIVIL','2014','sc','56','66','1676','Approved','7','12-04-2014');
+insert into SREGISTRATION values('08','Anand neil arnold','27-12-1993','Male','anand@234gmail.com','B+','996783455','Anil arnold','Anita arnold','7897245650','Bhilai street no-06','BE','ETC','2013','obc','71','66','12678','Cancelled','5','12-04-2013');
+
+
+
+
+
+
